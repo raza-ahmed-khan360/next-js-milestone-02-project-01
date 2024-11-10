@@ -1,13 +1,5 @@
-/* Global Variables */
-:root {
-    --bg-color: #e9edf0;
-    --text-color: #18233d;
-    --btn-color: #c3450b;
-    --section-color: #cddcf4;
-    --font-regular: 400;
-    --font-semibold: 600;
-    --font-bold: 700;
-  }
+import '../styles/globals.css';
+
   
   /* Main Section Styles */
   .textBrandText {
